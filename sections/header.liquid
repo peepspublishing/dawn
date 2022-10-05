@@ -384,11 +384,11 @@
                 width: section.settings.logo_width,
                 alt: logo_alt
               }}
-              {{ shop.name }}
             {%- else -%}
               <span class="h2">{{ shop.name }}</span>
             {%- endif -%}
           </a>
+          <span class="h2">{{ shop.name }}</span>
       {%- if request.page_type == 'index' -%}
         </h1>
       {%- endif -%}

@@ -2,6 +2,7 @@
   "sections": {
     "a85cc218-37ef-4ca2-9738-cc398312d4b8": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--15038862721085__a85cc218-37ef-4ca2-9738-cc398312d4b8-1665086819f0903ff7-0": {
           "type": "slide",
@@ -64,8 +65,8 @@
         "7baf9942-42ec-4484-9b89-68a41e877f74"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
+        "layout": "grid",
+        "slide_height": "small",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,

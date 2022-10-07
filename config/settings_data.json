@@ -143,7 +143,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/birdlogo.png",
-          "logo_width": 50,
+          "logo_width": 60,
           "logo_position": "top-center",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",

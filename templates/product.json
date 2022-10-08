@@ -91,7 +91,6 @@
         },
         "caption": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
@@ -121,6 +120,7 @@
         },
         "e62e753b-84c9-4001-a616-7c998ad2f23f": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Book Description",
             "text_style": "subtitle"
@@ -128,6 +128,7 @@
         },
         "433590dd-6aa0-4d46-98d8-38cc00eb24ab": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Little Baby Book of Hindu Gods familiarizes kids to eleven popular Hindu Dieties. The book introduces what each God symbolizes, a few fun facts, some animals friends, and a short prayer. The back page contains one of the oldest and most powerful prayers, the Gayatri Mantra.",
             "text_style": "body"
@@ -135,12 +136,12 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
         "df99b53e-b9ea-4a27-99eb-b01b2d6d1f4c": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "This charming book was made with kids in mind; having vibrant colors, creative illustrations, and simple bold text. It is a great addition for little minds just learning to read.",
             "text_style": "body"
@@ -162,21 +163,21 @@
             "page": ""
           }
         },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Board Book<br\/>Glossy Finish<br\/>6in x 6in x 0.5in<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipping & Sales Information",
             "icon": "truck",
             "content": "<p>Shipping calculated at checkout.<br\/><\/p><p>Once your item is shipped, it can no longer be cancelled.<br\/><\/p><p>We are not responsible for lost or damaged items during shipping; however, please contact us in these situations and we will do our best to work with you.<\/p><p>All sales are final.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Specifications",
-            "icon": "ruler",
-            "content": "<p>Board Book<\/p><p>6 in x 6 in x 0.5 in<\/p>",
             "page": ""
           }
         },
@@ -211,8 +212,8 @@
         "df99b53e-b9ea-4a27-99eb-b01b2d6d1f4c",
         "ebde4578-7a0c-43b0-ba5b-1b668c398444",
         "f7c021d2-4109-42f9-b1dd-c3bcd034986b",
-        "collapsible-row-1",
         "collapsible-row-0",
+        "collapsible-row-1",
         "collapsible-row-3",
         "share"
       ],

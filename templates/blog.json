@@ -15,10 +15,10 @@
     "29e42d39-84d9-4541-83d7-add6a048431c": {
       "type": "image-with-text",
       "blocks": {
-        "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-0": {
+        "8eb861b0-6ca3-49ad-9765-6ee7e98236d3": {
           "type": "heading",
           "settings": {
-            "heading": "Modi Toys",
+            "heading": "MODI TOYS",
             "heading_size": "h1"
           }
         },
@@ -32,25 +32,202 @@
         "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "LINK",
+            "button_link": "https:\/\/www.moditoys.com\/collections\/shop-modi-toys?gclid=Cj0KCQjw-fmZBhDtARIsAH6H8qiT9OFbLx-V4HqLdUbGLXxKk_yrhPZNW5kMZSkchgpghJWtkN_6W0oaAj6fEALw_wcB"
           }
         }
       },
       "block_order": [
-        "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-0",
+        "8eb861b0-6ca3-49ad-9765-6ee7e98236d3",
         "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-1",
         "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-2"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "image": "shopify:\/\/shop_images\/Modi_Toys_Logo_png_87995974-ef23-4cd6-9df8-12ea63df8cee.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "9c3ceb85-9d67-4479-87d8-690cdcec2a77": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15038862557245__9c3ceb85-9d67-4479-87d8-690cdcec2a77-16652577532853a4f3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "PAPER SOMOSA",
+            "heading_size": "h1"
+          }
+        },
+        "template--15038862557245__9c3ceb85-9d67-4479-87d8-690cdcec2a77-16652577532853a4f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking for cards or apparel, Paper Somosa has some creative Indian inspired punny items!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15038862557245__9c3ceb85-9d67-4479-87d8-690cdcec2a77-16652577532853a4f3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LINK",
+            "button_link": "https:\/\/papersamosa.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862557245__9c3ceb85-9d67-4479-87d8-690cdcec2a77-16652577532853a4f3-0",
+        "template--15038862557245__9c3ceb85-9d67-4479-87d8-690cdcec2a77-16652577532853a4f3-1",
+        "template--15038862557245__9c3ceb85-9d67-4479-87d8-690cdcec2a77-16652577532853a4f3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Paper_Somosa_Logo.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cebf0f97-854d-4a93-9eb1-e72efeaed9e4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE CHUTNEY LIFE",
+            "heading_size": "h1"
+          }
+        },
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Indian fusion recipes that are tasty and great to share with the family!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LINK",
+            "button_link": "https:\/\/thechutneylife.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-0",
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-1",
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/The_Chutney_Life_Logo.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1bf7039a-2f55-40da-902c-f00ac4808bef": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15038862557245__1bf7039a-2f55-40da-902c-f00ac4808bef-16652577532853a4f3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MY INNER SHAKTI",
+            "heading_size": "h1"
+          }
+        },
+        "template--15038862557245__1bf7039a-2f55-40da-902c-f00ac4808bef-16652577532853a4f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This blog and podcast is an amazing soure for new or expecting Moms!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15038862557245__1bf7039a-2f55-40da-902c-f00ac4808bef-16652577532853a4f3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LINK",
+            "button_link": "https:\/\/www.myinnershakti.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862557245__1bf7039a-2f55-40da-902c-f00ac4808bef-16652577532853a4f3-0",
+        "template--15038862557245__1bf7039a-2f55-40da-902c-f00ac4808bef-16652577532853a4f3-1",
+        "template--15038862557245__1bf7039a-2f55-40da-902c-f00ac4808bef-16652577532853a4f3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/My_Inner_Shakti_Logo.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "88ca59c9-802c-4f64-bd62-0f287445165c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15038862557245__88ca59c9-802c-4f64-bd62-0f287445165c-16652577532853a4f3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "MODERN DESI",
+            "heading_size": "h1"
+          }
+        },
+        "template--15038862557245__88ca59c9-802c-4f64-bd62-0f287445165c-16652577532853a4f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This site is a one stop shop for all things Indian!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15038862557245__88ca59c9-802c-4f64-bd62-0f287445165c-16652577532853a4f3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LINK",
+            "button_link": "https:\/\/www.moderndesi.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862557245__88ca59c9-802c-4f64-bd62-0f287445165c-16652577532853a4f3-0",
+        "template--15038862557245__88ca59c9-802c-4f64-bd62-0f287445165c-16652577532853a4f3-1",
+        "template--15038862557245__88ca59c9-802c-4f64-bd62-0f287445165c-16652577532853a4f3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Modern_Desi_Logo.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -58,6 +235,10 @@
   },
   "order": [
     "main",
-    "29e42d39-84d9-4541-83d7-add6a048431c"
+    "29e42d39-84d9-4541-83d7-add6a048431c",
+    "9c3ceb85-9d67-4479-87d8-690cdcec2a77",
+    "cebf0f97-854d-4a93-9eb1-e72efeaed9e4",
+    "1bf7039a-2f55-40da-902c-f00ac4808bef",
+    "88ca59c9-802c-4f64-bd62-0f287445165c"
   ]
 }

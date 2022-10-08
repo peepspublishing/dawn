@@ -177,7 +177,7 @@
           "settings": {
             "heading": "Shipping & Sales Information",
             "icon": "truck",
-            "content": "<p>Shipping calculated at checkout.<br\/><\/p><p>Once your item is shipped, it can no longer be cancelled.<br\/><\/p><p>We are not responsible for lost or damaged items during shipping; however, please contact us in these situations and we will do our best to work with you.<\/p><p>All sales are final.<\/p>",
+            "content": "<p>Currently shipping in the US only, please contact us directly for outside US options.<\/p><p>Shipping calculated at checkout.<br\/><\/p><p>Once your item is shipped, it can no longer be cancelled.<br\/><\/p><p>We are not responsible for lost or damaged items during shipping; however, please contact us in these situations and we will do our best to work with you.<\/p><p>All sales are final.<\/p>",
             "page": ""
           }
         },
@@ -231,6 +231,7 @@
     },
     "0722fb59-0a4a-4c31-9d60-e0beea8bfb7b": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "bba1e410-52e9-4dbd-afe6-e1ee48b6993c": {
           "type": "image",

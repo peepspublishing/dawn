@@ -11,9 +11,53 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "29e42d39-84d9-4541-83d7-add6a048431c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Modi Toys",
+            "heading_size": "h1"
+          }
+        },
+        "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Their plush toys are some of my favorite items to gift!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-0",
+        "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-1",
+        "template--15038862557245__29e42d39-84d9-4541-83d7-add6a048431c-16652577532853a4f3-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "29e42d39-84d9-4541-83d7-add6a048431c"
   ]
 }

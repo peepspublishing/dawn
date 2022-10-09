@@ -85,8 +85,9 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Welcome to my page. My name is Priya Patel. The creation of this book was a happy accident. Like many during the pandemic, I made A LOT of banana bread :), but also reconnected with some of my passions. I’ve always loved drawing and painting. I began doodling a few Hindu Gods just for fun and showed them to my husband. He mentioned they would be great for a kid’s book. At that time, I didn’t really take it too seriously, but I continued to get additional encouragement from family and friends. <br\/>As I started creating this book, I quickly realized how complex many of the stories are. My goal was to engage kids into Hindu culture without overwhelming them. Thus, what started off as a creative outlet evolved into my first book.<\/p>"
+            "text": "<p>Hello, my name is Priya Patel. The creation of this book was a happy accident. Like many during the pandemic, I made A LOT of banana bread :), but also reconnected with some of my passions. I’ve always loved drawing and painting. I began doodling a few Hindu Gods just for fun and showed them to my husband. He mentioned they would be great for a kid’s book. At that time, I didn’t really take it too seriously, but I continued to get additional encouragement from family and friends. <br\/>As I started creating this book, I quickly realized how complex many of the stories are. My goal was to engage kids into Hindu culture without overwhelming them. Thus, what started off as a creative outlet evolved into my first book.<\/p>"
           }
         }
       },
@@ -101,6 +102,34 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "2ce96d88-2423-45be-8e60-fe1a258bb22d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15038862360637__2ce96d88-2423-45be-8e60-fe1a258bb22d-16653516438e5dc72e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hello, my name is Priya Patel. The creation of this book was a happy accident. Like many during the pandemic, I made A LOT of banana bread :), but also reconnected with some of my passions. I’ve always loved drawing and painting. I began doodling a few Hindu Gods just for fun and showed them to my husband. He mentioned they would be great for a kid’s book. At that time, I didn’t really take it too seriously, but I continued to get additional encouragement from family and friends. <br\/><\/p><p>As I started creating this book, I quickly realized how complex many of the stories are. My goal was to engage kids into Hindu culture without overwhelming them. Thus, what started off as a creative outlet evolved into my first book.<\/p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862360637__2ce96d88-2423-45be-8e60-fe1a258bb22d-16653516438e5dc72e-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2021-2022_Family_Pic.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "featured_collection": {
@@ -242,6 +271,7 @@
   "order": [
     "61a49efc-572e-4136-b42c-881ba68beec6",
     "rich_text",
+    "2ce96d88-2423-45be-8e60-fe1a258bb22d",
     "featured_collection",
     "collage",
     "video",

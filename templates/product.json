@@ -74,6 +74,50 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "e46d1723-db0a-4fc4-b2f2-73a284fd9ff7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15038862721085__e46d1723-db0a-4fc4-b2f2-73a284fd9ff7-16655227491cc4b12f-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15038862721085__e46d1723-db0a-4fc4-b2f2-73a284fd9ff7-16655227491cc4b12f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking for gifts, buy 3 or more books for 20% off!<\/p>"
+          }
+        },
+        "template--15038862721085__e46d1723-db0a-4fc4-b2f2-73a284fd9ff7-16655227491cc4b12f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862721085__e46d1723-db0a-4fc4-b2f2-73a284fd9ff7-16655227491cc4b12f-0",
+        "template--15038862721085__e46d1723-db0a-4fc4-b2f2-73a284fd9ff7-16655227491cc4b12f-1",
+        "template--15038862721085__e46d1723-db0a-4fc4-b2f2-73a284fd9ff7-16655227491cc4b12f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -372,6 +416,7 @@
   },
   "order": [
     "a85cc218-37ef-4ca2-9738-cc398312d4b8",
+    "e46d1723-db0a-4fc4-b2f2-73a284fd9ff7",
     "main",
     "0722fb59-0a4a-4c31-9d60-e0beea8bfb7b",
     "image-with-text",

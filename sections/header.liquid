@@ -389,9 +389,9 @@
       {%- if section.settings.logo != blank -%}
         <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
           {%- if request.page_type == 'index' -%}
-            <h1 class="header__heading">
+            <h1 class="header__heading h2">
           {%- else -%}
-            <span class="h1">
+            <span class="h2">
           {%- endif -%}
               {{ shop.name }}
           {%- if request.page_type == 'index' -%}

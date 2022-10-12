@@ -370,7 +370,7 @@
     {%- endif -%} {% endcomment %}
 
     {%- if section.settings.logo_position != 'middle-center' -%}
-      <div style="display: flex; align-items: center;">
+      <div class="header__heading" style="display: flex; align-items: center;">
         <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
           {%- if section.settings.logo != blank -%}
             {%- assign logo_alt = section.settings.logo.alt | default: shop.name | escape -%}

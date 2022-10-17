@@ -14,7 +14,7 @@
         "template--15038862360637__063a93a1-e9b7-4d58-90bb-fb3a6118c466-1666041311eb092afb-1": {
           "type": "text",
           "settings": {
-            "text": "<p><a href=\"https:\/\/indiankidsbooks.com\/products\/little-baby-book-of-hindu-gods\" title=\"https:\/\/indiankidsbooks.com\/products\/little-baby-book-of-hindu-gods\"><strong>Click Here To Buy Now!<\/strong><\/a><\/p>"
+            "text": "<p><a href=\"https:\/\/indiankidsbooks.com\/products\/little-baby-book-of-hindu-gods\" title=\"https:\/\/indiankidsbooks.com\/products\/little-baby-book-of-hindu-gods\">Click Here To Buy Now!<\/a><\/p>"
           }
         },
         "template--15038862360637__063a93a1-e9b7-4d58-90bb-fb3a6118c466-1666041311eb092afb-2": {
@@ -42,6 +42,51 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "1d60ee78-389e-4cf6-a865-070093a3adc7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15038862360637__1d60ee78-389e-4cf6-a865-070093a3adc7-16660418923878a8ad-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--15038862360637__1d60ee78-389e-4cf6-a865-070093a3adc7-16660418923878a8ad-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--15038862360637__1d60ee78-389e-4cf6-a865-070093a3adc7-16660418923878a8ad-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862360637__1d60ee78-389e-4cf6-a865-070093a3adc7-16660418923878a8ad-0",
+        "template--15038862360637__1d60ee78-389e-4cf6-a865-070093a3adc7-16660418923878a8ad-1",
+        "template--15038862360637__1d60ee78-389e-4cf6-a865-070093a3adc7-16660418923878a8ad-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 40
       }
     },
     "61a49efc-572e-4136-b42c-881ba68beec6": {
@@ -314,6 +359,7 @@
   },
   "order": [
     "063a93a1-e9b7-4d58-90bb-fb3a6118c466",
+    "1d60ee78-389e-4cf6-a865-070093a3adc7",
     "61a49efc-572e-4136-b42c-881ba68beec6",
     "rich_text",
     "2ce96d88-2423-45be-8e60-fe1a258bb22d",

@@ -131,50 +131,6 @@
         "padding_bottom": 20
       }
     },
-    "cebf0f97-854d-4a93-9eb1-e72efeaed9e4": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Indian fusion recipes that are tasty and great to share with the family!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "LINK",
-            "button_link": "https:\/\/thechutneylife.com\/"
-          }
-        }
-      },
-      "block_order": [
-        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-0",
-        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-1",
-        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/The_Chutney_Life_Logo_b463b38b-d74d-4478-975f-73641374e960.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "1bf7039a-2f55-40da-902c-f00ac4808bef": {
       "type": "image-with-text",
       "blocks": {
@@ -207,6 +163,50 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/My_Inner_Shakti_Logo_1755dbab-8aa0-4a3a-a23b-ee96113b3a99.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "cebf0f97-854d-4a93-9eb1-e72efeaed9e4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Indian fusion recipes that are tasty and great to share with the family!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "LINK",
+            "button_link": "https:\/\/thechutneylife.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-0",
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-1",
+        "template--15038862557245__cebf0f97-854d-4a93-9eb1-e72efeaed9e4-16652577532853a4f3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/The_Chutney_Life_Logo_b463b38b-d74d-4478-975f-73641374e960.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -262,6 +262,42 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "87155a55-b0bc-4a17-8cc8-49b4ea5a5e64": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15038862557245__87155a55-b0bc-4a17-8cc8-49b4ea5a5e64-16755286341c05b4a1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From her cute style finds to her parenting experiences, she knows how to keep it real and fun. Payal is a must-follow for anyone looking for a little bit of humor, inspiration, and fun in their lives. So, be sure to check out her social media accounts for a dose of positivity and laughter.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15038862557245__87155a55-b0bc-4a17-8cc8-49b4ea5a5e64-16755286341c05b4a1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Link",
+            "button_link": "https:\/\/www.instagram.com\/payalforstyle\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--15038862557245__87155a55-b0bc-4a17-8cc8-49b4ea5a5e64-16755286341c05b4a1-1",
+        "template--15038862557245__87155a55-b0bc-4a17-8cc8-49b4ea5a5e64-16755286341c05b4a1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PayalforStyle.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -269,8 +305,9 @@
     "ab7527ce-fe47-4297-9db4-31af88c77c99",
     "29e42d39-84d9-4541-83d7-add6a048431c",
     "9c3ceb85-9d67-4479-87d8-690cdcec2a77",
-    "cebf0f97-854d-4a93-9eb1-e72efeaed9e4",
     "1bf7039a-2f55-40da-902c-f00ac4808bef",
-    "88ca59c9-802c-4f64-bd62-0f287445165c"
+    "cebf0f97-854d-4a93-9eb1-e72efeaed9e4",
+    "88ca59c9-802c-4f64-bd62-0f287445165c",
+    "87155a55-b0bc-4a17-8cc8-49b4ea5a5e64"
   ]
 }
